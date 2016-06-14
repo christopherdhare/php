@@ -1,0 +1,183 @@
+(lp0
+S'Gender'
+p1
+aS'Occupation'
+p2
+aS'Race'
+p3
+aS'Party'
+p4
+aS'Position on abortion'
+p5
+aS'Position on spending'
+p6
+aS'Position on taxes'
+p7
+aS'Position on the environment'
+p8
+a.(dp9
+I2
+(lp10
+sg7
+(lp11
+S'The federal government should greatly increase taxes on corporations and the wealthy in order to address income inequality, even if it hurts economic growth.'
+p12
+aS'The federal government should somewhat increase taxes on corporations and the wealthy in order to address income inequality, even if it hurts economic growth.'
+p13
+aS'The federal government should maintain current tax rates on corporations and the wealthy in order to keep economic growth and income inequality from getting worse.'
+p14
+aS'The federal government should somewhat decrease taxes on corporations and the wealthy in order to improve economic growth, even if it worsens income inequality.'
+p15
+aS'The federal government should greatly decrease taxes on corporations and the wealthy in order to improve economic growth, even if it worsens income inequality.'
+p16
+asg1
+(lp17
+S'Male'
+p18
+aS'Female'
+p19
+asg8
+(lp20
+sS'Religion'
+p21
+(lp22
+S'Catholic'
+p23
+aS'Jewish'
+p24
+aS'None'
+p25
+asg3
+(lp26
+S'White'
+p27
+aS'Black'
+p28
+aS'Hispanic'
+p29
+aS'Asian-American'
+p30
+asg6
+(lp31
+S'The federal government should greatly increase spending on programs to assist the poor, even if it means greatly increasing the national debt.'
+p32
+aS'The federal government should somewhat increase spending on programs to assist the poor, even if it means somewhat increasing the national debt.'
+p33
+aS'The federal government should maintain current levels of spending on programs to assist the poor, keeping the national debt around current levels.'
+p34
+aS'The federal government should somewhat decrease spending on programs to assist the poor in order to somewhat reduce the national debt.'
+p35
+aS'The federal government should greatly decrease spending on programs to assist the poor in order to greatly reduce the national debt.'
+p36
+asg4
+(lp37
+S'Democrat'
+p38
+aS'Independent'
+p39
+aS'Republican'
+p40
+asg5
+(lp41
+S'Abortion should be legal in all cases, and taxpayer funds should help pay for abortions for women who have difficulty affording them.'
+p42
+aS'Abortion should be legal during the first six months of pregnancy, but taxpayer funds should not be used to pay for abortions.'
+p43
+aS'Abortion should be legal during the first three months of pregnancy, but taxpayer funds should not be used to pay for abortions.'
+p44
+aS'Abortion should be illegal except in cases of rape, incest, and when the life of the mother is in danger.'
+p45
+aS'Abortion should be illegal in all cases, including in cases of rape and incest. '
+p46
+asg2
+(lp47
+S'Attorney'
+p48
+aS'Business owner'
+p49
+aS'Doctor'
+p50
+aS'Military veteran'
+p51
+aS'College professor'
+p52
+aS'Member of Congress'
+p53
+as.(lp54
+(lp55
+(S'Party'
+p56
+S'Republican'
+p57
+tp58
+a(S'Position on abortion'
+p59
+S'Abortion should be illegal in all cases, including in cases of rape and incest. '
+p60
+tp61
+aa(lp62
+a(lp63
+a(lp64
+a.(lp65
+(lp66
+S'Gender'
+p67
+aa.(dp68
+I2
+(lp69
+sg7
+(lp70
+F0.2
+aF0.2
+aF0.2
+aF0.2
+aF0.2
+asg1
+(lp71
+F0.5
+aF0.5
+asg8
+(lp72
+sg21
+(lp73
+F0.3333333333333333
+aF0.3333333333333333
+aF0.3333333333333333
+asg3
+(lp74
+F0.25
+aF0.25
+aF0.25
+aF0.25
+asg6
+(lp75
+F0.2
+aF0.2
+aF0.2
+aF0.2
+aF0.2
+asg4
+(lp76
+F0.3333333333333333
+aF0.3333333333333333
+aF0.3333333333333333
+asg5
+(lp77
+F0.2
+aF0.2
+aF0.2
+aF0.2
+aF0.2
+asg2
+(lp78
+F0.16666666666666666
+aF0.16666666666666666
+aF0.16666666666666666
+aF0.16666666666666666
+aF0.16666666666666666
+aF0.16666666666666666
+as.S'5'
+p79
+.S'2'
+p80
+.
